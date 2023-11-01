@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zecanyang
-- 👀 I’m interested in Sparse Bayesian learning, Deep Learning, Tensor Decomposition, Big Data;
-- 🌱 I’m currently learning Huazhong University of Science and Technology.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Zecan.Yang
+- 👀 I’m interested in Deep Learning, Sparse Bayesian learning,  Tensor Analysis, Big Data.
+- 🌱 I’m currently studying at Huazhong University of Science and Technology.
+- 💞️ I’m looking to collaborate on Bayesian Tensor Analysis.
 - 📫 How to reach me ...
 
 <!---
